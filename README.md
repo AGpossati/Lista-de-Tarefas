@@ -26,7 +26,3 @@ A sua aplicação está pronta para ser executada!
 Nota: esta é uma operação de sentido único. Uma vez realizada, não pode ser desfeita!
 
 Se não estiver satisfeito com a ferramenta de construção e as escolhas de configuração, você poderá executar o npm run eject  a qualquer momento. Este comando irá remover a dependência de construção do seu projeto.
-
-
-
-Traduzido com a versão gratuita do tradutor - www.DeepL.com/Translator
